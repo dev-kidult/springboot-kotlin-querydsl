@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    initialization-mode: always
+  jpa:
+    hibernate:
+      ddl-auto: none
